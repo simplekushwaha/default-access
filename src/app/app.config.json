@@ -1,0 +1,13 @@
+{
+  "appname": "default access",
+  "ocscope": "",
+  "clientid": "D2FFCA28-0CE1-4328-8F1D-3A615254FB5F",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
